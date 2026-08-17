@@ -8,7 +8,7 @@ Then use `npm run dev` to view the website locally
 
 Run `test.py` to run the unitary tests
 
-## [PT-BR] How to: Build this Project
+## [PT-BR] Como: Construir este Projeto
 
 Clone este repositório, usando `git clone` ou baixando-o manualmente como um arquivo `.zip`.
 
